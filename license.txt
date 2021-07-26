@@ -1,0 +1,13 @@
+﻿*** a License file ***
+
+--- Product Information ---
+Product Name: ICB
+
+--- Customer Information ---
+Download ID: example
+
+--- License Information ---
+Key: A
+License: F
+
+*** *** *** * E O F * *** *** ***
